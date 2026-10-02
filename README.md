@@ -1,3 +1,3 @@
 # Test
-hi, this is my test repo
-hello romil
+My project is called EduPath.  
+It is an AI-based learning roadmap generator.
